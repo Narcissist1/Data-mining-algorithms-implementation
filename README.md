@@ -18,12 +18,5 @@ The first line contains two numbers n and d, where n is the number of points, an
 The i-th line (where i goes from 2 to n + 1) gives the (i - 1)-th point in the dataset as: 
 x1 x2 ... xd c
 where the first d values are the coordinates of the point, and c = 1 (if the point is blue) or 0 (red).
-An example dataset of 4 two-dimensional points is: 
-4 2
-1 2 0
-2 1 0 
-3 2 1
-2 4 1
-Deliverables
 
 
