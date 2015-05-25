@@ -19,4 +19,18 @@ The i-th line (where i goes from 2 to n + 1) gives the (i - 1)-th point in the d
 x1 x2 ... xd c
 where the first d values are the coordinates of the point, and c = 1 (if the point is blue) or 0 (red).
 
+Project #6: DBSCAN
 
+Goal
+
+Implement the DBSCAN algorithm discussed in Lecture 8.
+Dataset
+
+Download http://www.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/data/3spiral.txt (obtained from the data collection here(http://cs.joensuu.fi/sipu/datasets/)). Each line has the following format: 
+
+x y
+
+which represent the x- and y-coordinates of a point.
+Task
+
+Partition the dataset into 3 clusters.
